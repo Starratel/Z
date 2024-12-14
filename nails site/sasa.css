@@ -1,0 +1,79 @@
+body {
+    background: #333;
+    margin: 0 auto;
+    text-align: center;
+    justify-content: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.ashdva {
+    font-size: 50px;
+    color: white;
+}
+.ashtri {
+    color: white;
+    font-size: 35px;
+}
+
+.pochta {
+    width: 30%;
+    background-color: black;
+    border: 1px solid grey;
+    border-radius: 10px;
+    padding: 15px;
+    box-shadow: 0 0 10px #f7f7f7;
+    color: white;
+}
+
+.perv {
+    color: #ddd;
+    font-size: 20px;
+    margin-right: 25%;
+    padding: 12px;
+}
+
+.imya {
+    width: 30%;
+    background-color: black;
+    border: 1px solid grey;
+    border-radius: 10px;
+    padding: 15px;
+    box-shadow: 0 0 10px #f7f7f7;
+    color: white;
+}
+
+.vtor {
+    color: #ddd;
+    font-size: 20px;
+    margin-right: 19.5%;
+    padding-top: 40px;
+    padding-bottom: 15px;
+}
+
+.vibor {
+    color: #ddd;
+    font-size: 40px;
+    padding-top: 40px;
+    padding-bottom: 15px;
+}
+
+
+.paypalperv {
+    color: #033089;
+}
+
+.paypalvtor {
+    color: #029ce1;
+}
+
+.kripta {
+    color: #ebb42e;
+}
+
+.soglasie {
+    font-size: 25px;
+    color: white;
+}
